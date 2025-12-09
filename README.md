@@ -8,7 +8,7 @@ Este projeto é uma simulação de um sistema semelhante ao Uber, desenvolvido e
 
 > Representação das classes, relacionamentos e herança do sistema.
 
-![Diagrama UML](diagrama-uml.png)
+![Diagrama UML](UMLPOO.drawio.png)
 
 ---
 
